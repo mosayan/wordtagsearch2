@@ -14,7 +14,7 @@ Excelファイルに登録した検索キーワード・ハッシュタグに基
 | ---- | ---- |
 |BEARER_TOKEN|X APIのBearer Token|
 |SAVE_DIR|画像ファイルのダウンロードフォルダパス|
-|EXCEL_FILE|検索したいキーワード、タグのリスト、タグごとの取得内容を管理するExcelファイル名|
+|EXCEL_FILE|検索したいキーワード、タグのリスト、タグごとの履歴を管理するExcelファイル名|
 |SEARCH_LIST_SHEET|検索したいキーワード、タグのリストのシート名|
 |MAX_RESULTS|各検索キーワード、タグに指定するmax_resultsが指定されていない場合のデフォルト値|
 
